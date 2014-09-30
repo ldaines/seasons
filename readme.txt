@@ -8,7 +8,7 @@ Stable tag: 0.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WordPress Seasons is a simple plugin to automatically render text depending on the season via a shortcode.
+WordPress Seasons is a simple plugin to automatically show specific text according to the season using a shortcode.
 
 == Description ==
 
@@ -29,5 +29,8 @@ The plugin uses the current date. If the current date is between March, 21st and
 
 == Changelog ==
 
+= 0.1.0 =
+* First version that works.
+
 = 0.0.1 =
-* First version.
+* First version. Bugged...
